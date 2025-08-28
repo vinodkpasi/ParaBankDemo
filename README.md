@@ -26,4 +26,7 @@
 
 - After execution, report file **index.html** is created under **playwright-report** directory.
 - Logs, Videos and Screenshots files are available under **test-results** directory.
+- Run the below commands to open the report.
 
+      **npx playwright show-report**
+  
